@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.maxparks.ttobokhome",
+      "sha256_cert_fingerprints": ["51:02:C3:0B:88:E2:C0:D1:06:91:02:58:BA:64:A4:0C:A1:AE:4C:3C:19:20:8D:E9:DF:1A:8D:0B:C4:0E:27:02"]
+    }
+  }
+]
